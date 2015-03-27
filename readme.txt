@@ -5,4 +5,8 @@ I am learning git.
 Creat a new branch is quick and simple.
 test
 lalla
+<<<<<<< HEAD
 dh
+=======
+asfh
+>>>>>>> feature1
